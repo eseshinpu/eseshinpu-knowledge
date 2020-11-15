@@ -6,3 +6,4 @@
 ## MyRepositories
 ## [swig-for-python-example](https://github.com/eseshinpu/swig-for-python-example)
 ## [augmented-image-viewer](https://github.com/eseshinpu/augmented-image-viewer)
+## [pl-image-classification](https://github.com/rewolfiluac/pl-image-classification)
