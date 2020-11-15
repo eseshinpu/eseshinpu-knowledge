@@ -11,3 +11,6 @@ source envs/[env-name]/bin/activate
 ```
 deactivate
 ```
+
+## how to build pytorch for RTX3080
+[ひでみのアイデア帳](https://sweetcafe.jp/?*20201030-202053)
